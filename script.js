@@ -8,6 +8,7 @@ const imagemMiniatura2 = document.querySelector('[for="2-imagem"] img');
 
 // console.log(imagemMiniatura0);
 
+//opcoes de tamanho dos relogios e suas cores
 const opcoesTamanho = ["41 mm", "45 mm"];
 const opcoesCores = [
   "Verde-cipreste",
